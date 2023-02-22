@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lb2\Data Grouping\bin\Debug\netcoreapp3.1\Data Grouping.exe
+C:\Users\Omen\Documents\Lb2\Data Grouping\bin\Debug\netcoreapp3.1\Data Grouping.deps.json
+C:\Users\Omen\Documents\Lb2\Data Grouping\bin\Debug\netcoreapp3.1\Data Grouping.runtimeconfig.json
+C:\Users\Omen\Documents\Lb2\Data Grouping\bin\Debug\netcoreapp3.1\Data Grouping.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lb2\Data Grouping\bin\Debug\netcoreapp3.1\Data Grouping.dll
+C:\Users\Omen\Documents\Lb2\Data Grouping\bin\Debug\netcoreapp3.1\Data Grouping.pdb
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.dll
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.pdb
+C:\Users\Omen\Documents\Lb2\Data Grouping\obj\Debug\netcoreapp3.1\Data Grouping.genruntimeconfig.cache
