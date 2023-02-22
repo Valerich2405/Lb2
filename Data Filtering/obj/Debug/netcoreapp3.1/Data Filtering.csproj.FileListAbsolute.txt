@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lb2\Data Filtering\bin\Debug\netcoreapp3.1\Data Filtering.exe
+C:\Users\Omen\Documents\Lb2\Data Filtering\bin\Debug\netcoreapp3.1\Data Filtering.deps.json
+C:\Users\Omen\Documents\Lb2\Data Filtering\bin\Debug\netcoreapp3.1\Data Filtering.runtimeconfig.json
+C:\Users\Omen\Documents\Lb2\Data Filtering\bin\Debug\netcoreapp3.1\Data Filtering.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lb2\Data Filtering\bin\Debug\netcoreapp3.1\Data Filtering.dll
+C:\Users\Omen\Documents\Lb2\Data Filtering\bin\Debug\netcoreapp3.1\Data Filtering.pdb
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.dll
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.pdb
+C:\Users\Omen\Documents\Lb2\Data Filtering\obj\Debug\netcoreapp3.1\Data Filtering.genruntimeconfig.cache
