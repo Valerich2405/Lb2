@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lb2\Data Sorting\bin\Debug\netcoreapp3.1\Data Sorting.exe
+C:\Users\Omen\Documents\Lb2\Data Sorting\bin\Debug\netcoreapp3.1\Data Sorting.deps.json
+C:\Users\Omen\Documents\Lb2\Data Sorting\bin\Debug\netcoreapp3.1\Data Sorting.runtimeconfig.json
+C:\Users\Omen\Documents\Lb2\Data Sorting\bin\Debug\netcoreapp3.1\Data Sorting.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lb2\Data Sorting\bin\Debug\netcoreapp3.1\Data Sorting.dll
+C:\Users\Omen\Documents\Lb2\Data Sorting\bin\Debug\netcoreapp3.1\Data Sorting.pdb
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.dll
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.pdb
+C:\Users\Omen\Documents\Lb2\Data Sorting\obj\Debug\netcoreapp3.1\Data Sorting.genruntimeconfig.cache
