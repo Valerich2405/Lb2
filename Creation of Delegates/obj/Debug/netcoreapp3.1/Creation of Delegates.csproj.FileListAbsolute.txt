@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\bin\Debug\netcoreapp3.1\Creation of Delegates.exe
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\bin\Debug\netcoreapp3.1\Creation of Delegates.deps.json
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\bin\Debug\netcoreapp3.1\Creation of Delegates.runtimeconfig.json
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\bin\Debug\netcoreapp3.1\Creation of Delegates.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\bin\Debug\netcoreapp3.1\Creation of Delegates.dll
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\bin\Debug\netcoreapp3.1\Creation of Delegates.pdb
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.dll
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.pdb
+C:\Users\Omen\Documents\Lb2\Creation of Delegates\obj\Debug\netcoreapp3.1\Creation of Delegates.genruntimeconfig.cache
